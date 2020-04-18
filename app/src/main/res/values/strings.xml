@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrafficLights</string>
+    <string name="red">Czerwone</string>
+    <string name="yellow">Żółte</string>
+    <string name="green">Zielone</string>
+    <string name="green_desc">zielone światło drogowe</string>
+    <string name="yellow_desc">Żółte światło drogowe</string>
+    <string name="red_desc">Czerwone światło drogowe</string>
+</resources>
